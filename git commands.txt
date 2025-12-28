@@ -1,0 +1,12 @@
+
+---
+
+## 🔧 Push Backend Repo
+```bash
+cd dont-say-same-thing-backend
+git init
+git add .
+git commit -m "Initial backend MVP"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/dont-say-same-thing-backend.git
+git push -u origin main
